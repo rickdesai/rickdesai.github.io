@@ -1,0 +1,25 @@
+/*Sample Comment*/
+body{
+	background-color: orange;
+	color: white;
+}
+h1{
+	font-family: "proxima-nova",sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px!important;
+	letter-spacing: 2px;
+	padding: 0px 0;
+	text-transform: uppercase;}
+img{
+	max-width: 100%;
+}
+p{
+	color: blue;
+}
+section p{
+	color: black;
+}
+	
+
+	
